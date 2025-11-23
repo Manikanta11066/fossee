@@ -99,17 +99,6 @@ cd frontend
 npm install
 ```
 
-### Create environment file
-Create:
-```
-frontend/.env.development
-```
-
-Add:
-```
-VITE_API_BASE_URL=http://127.0.0.1:8000/api
-```
-
 ### Start development server
 ```powershell
 npm run dev
