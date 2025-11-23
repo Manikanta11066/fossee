@@ -1,0 +1,5 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Mixer X,Mixer,60.0,3.0,90
+Valve Y,Valve,40.0,2.2,70
+Column Z,Distillation Column,150.0,12.0,320
+Filter K,Filter,55.0,4.5,110
