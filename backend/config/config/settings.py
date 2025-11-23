@@ -3,9 +3,11 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = "dev-secret-key-change-in-prod"
-DEBUG = True
-ALLOWED_HOSTS = ["*"]
+
+SECRET_KEY=uKt5oJwt0HPNFtHL1MlyZIN-eASHxfk6gSkS96guQEMN6JwltUap_shAlWJJcqlvgx4
+DJANGO_SETTINGS_MODULE=config.settings
+DEBUG=False
+ALLOWED_HOSTS=your-backend-domain.onrender.com,.onrender.com
 
 INSTALLED_APPS = [
     "django.contrib.admin",
