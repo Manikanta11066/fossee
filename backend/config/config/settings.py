@@ -5,7 +5,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 SECRET_KEY=uKt5oJwt0HPNFtHL1MlyZIN-eASHxfk6gSkS96guQEMN6JwltUap_shAlWJJcqlvgx4
-DJANGO_SETTINGS_MODULE=config.config.settings
+DJANGO_SETTINGS_MODULE= config.config.settings
 
 DEBUG=False
 ALLOWED_HOSTS=your-backend-domain.onrender.com,.onrender.com
